@@ -1,0 +1,5 @@
+Dars 25 20 19
+Ders 27 21 15
+Dirs 19 29 5
+Dors 22 5 9
+Durs 21 5 9
